@@ -33,7 +33,6 @@ Most families and small teams make important decisions every day — choosing sc
 
 **Decision Memory Agent** solves this by acting as a persistent, searchable memory for every decision. You capture decisions in any format; the AI extracts and structures them automatically; later you can ask questions like:
 
-- *"Why did we postpone the GTV application?"*
 - *"What risks did we accept when we moved Mahith to the new school?"*
 - *"Who opposed the decision to switch to solar panels?"*
 
